@@ -1,0 +1,12 @@
+{
+  "params": {
+            "n_estimators": 200,
+            "max_depth": 15,
+            "random_state": 1234,
+            "max_features": "auto",
+            "class_weight": "balanced",
+            "criterion": "entropy",
+            "verbose": 2,
+            "n_jobs": -1
+  }
+}

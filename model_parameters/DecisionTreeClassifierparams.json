@@ -1,0 +1,9 @@
+{
+  "params": {
+            "max_depth": 35,
+            "random_state": 1234,
+            "max_features": "auto",
+            "class_weight": "balanced",
+            "criterion": "entropy"
+  }
+}

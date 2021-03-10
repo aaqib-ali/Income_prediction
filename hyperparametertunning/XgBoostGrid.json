@@ -1,0 +1,12 @@
+{
+  "params": {
+            "learning_rate": 0.2,
+            "reg_lambda": 1,
+            "reg_alpha": 0.3,
+            "random_state": 1234,
+            "seed": 1234,
+            "n_estimators": 200,
+            "base_score": 0.2,
+            "verbosity": 2
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "params": {
+    "classifier__criterion":["gini", "entropy"],
+    "classifier__n_estimators": [100, 150, 200],
+    "classifier__max_depth": [10, 15, 20],
+    "classifier__max_features" : ["auto"],
+    "classifier__class_weight": ["balanced"]
+  }
+}

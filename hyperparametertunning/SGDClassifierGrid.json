@@ -1,0 +1,8 @@
+{
+  "params": {
+    "classifier__penalty": ["l2"],
+    "classifier__max_iter": [10000],
+    "classifier__solver": ["newton-cg", "sag", "lbfgs"],
+    "classifier__class_weight": ["balanced"]
+  }
+}
