@@ -1,5 +1,5 @@
-## Verivox interview task
-This is a simple task as part of an interview process for a position of Data Scientist.In this task I have to analyse the given “Census” dataset
+## Introduction
+In simple task I have to analyse the given “Census” dataset
 and build a predictive model that can predict whether a person makes an income of over $50K or not. Moreover, highlight some of the drivers of the model.
 
 ## Requirements
@@ -9,7 +9,7 @@ and build a predictive model that can predict whether a person makes an income o
 All the others requirements and packages that are needed for this project is listed in requirements.txt file
 
 ## For testing on hidden data
-To start with testing the model on hidden dataset in Verivox please follow the commands below.
+To start with testing the model on hidden dataset in please follow the commands below.
 After navigating to the task directory please run the following commands:
  ```
 conda create --name <new_env> --file <requirements.txt>
